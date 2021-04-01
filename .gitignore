@@ -1,5 +1,5 @@
-# Object file
-*.o
-
-# Ada Library Information
-*.ali
+_site
+.sass-cache
+.DS_Store
+.ruby-version
+node_modules
